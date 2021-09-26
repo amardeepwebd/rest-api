@@ -1,3 +1,7 @@
+I have created this repository and due to some issues i wasn't able to upload it from this account handle so I uploaded it on my friend's account handle(@rishabhWebD) & transferred it to this account handle .
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
